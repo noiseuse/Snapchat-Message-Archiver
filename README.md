@@ -9,6 +9,7 @@ The following steps were taken from  https://help.snapchat.com/hc/en-gb/articles
 4. Enter a valid email address and we’ll send you an email with a link once your data is ready to download. Please don’t share this link with anyone.
 5. Follow the link in your email to download your data.
 6. Click the link to download your data.
+NOTE: Download your data as a .json file instead of a .html, if you fail to do so this code will not run
 
 After this, you will have access to a .json file containing Snapchat message data. You may rename this file to whatever you like, and then use this same file for this code. 
 
